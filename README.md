@@ -1,27 +1,10 @@
-# TodoList
+# My TODO List!
+Hello, here's my second Angular project: a Todo List. A project that every developer who wants to learn a technology must do.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
+#
 
-## Development server
+This todo list is a simple angular application, this application permet you to create a list of todo thing, in this application you can add, and remove a item of todo list.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Why
+This application is a exercice for me, I want became a Angular Web developper.
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
